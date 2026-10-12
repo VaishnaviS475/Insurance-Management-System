@@ -1,0 +1,47 @@
+Insurance Management System
+
+📌 Project Overview
+The Insurance Management System is a database management project developed using MySQL to manage insurance customers, policies, premium payments, and claims efficiently.
+🎯 Objectives
+Organize customer and administrator information.
+Manage insurance policies and categories.
+Record policy purchases and premium payments.
+Track insurance claims and their approval status.
+Generate reports using SQL queries.
+
+🛠️ Technologies Used
+MySQL 8.0+
+SQL
+Relational Database Management System (RDBMS) concepts
+✨ Key Features
+Customer and administrator tables.
+Multiple insurance policy categories.
+Policy purchase and payment tracking.
+Insurance claim management.
+Customer feedback and notifications.
+Stored procedure for premium calculation.
+Trigger for claim-status notifications.
+SQL queries using JOINs, subqueries, aggregate functions, and conditional statements.
+
+🗄️ Database Tables
+Admin
+Customers
+Policy Categories
+Policies
+Policy Purchases
+Payments
+Claims
+Feedback
+Notifications
+
+🚀 How to Run
+Install MySQL 8.0 or a compatible version.
+Open MySQL Workbench.
+Open the SQL source file.
+Execute the script to create the database, tables, and sample records.
+Run the example queries to explore the database.
+
+📚 Learning Outcomes
+This project demonstrates relational database design, primary and foreign keys, data integrity, joins, aggregate queries, stored procedures, triggers, and database operations.
+👩‍💻 Project Type
+College DBMS Mini Project
